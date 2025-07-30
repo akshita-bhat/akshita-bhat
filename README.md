@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @akshita-bhat
-- 👀 I’m interested in data science and machine learning models
+- 👀 I'm a data scientist at an Australian re-insurer 
+- 👀 I’m interested in math, models and AI Agents
 - 🌱 I’ve graduated with a Masters of Information Technology (Double major - Data Science and AI) from UNSW 
 - 🌱 I've graduated with a Bachelor's of Mathematics from LSR, Delhi University
 - 📫 How to reach me via outlook: akshita.bhat@outlook.com 
